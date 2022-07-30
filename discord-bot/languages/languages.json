@@ -1,0 +1,51 @@
+{
+    "languages": ["english","russian"],
+    "translations": {
+        "SEAERCH":{
+            "ERROR_1":{
+                "english": "You need to be in a voice channel to play music!",
+                "russian": "Ты должен быть в голосовом канале, чтобы выполнить -play"
+            },
+            "ERROR_2":{
+                "english": "I need the permissions to join and speak in your voice channel!",
+                "russian": "Мне нужно больше прав, чтобы присоединиться к твоему голосовому каналу!"
+            },
+            "ERROR_3":{
+                "english": "You has no written anything to find video!",
+                "russian": "Ты ничего не написал после -play, чтобы найти что-нибудь!"
+            },
+            "ERROR_4":{
+                "english": "I haven't found anything...",
+                "russian": "Ничего не нашел по этому запросу..."
+            },
+            "ADDED":{
+                "english": "has been added to the queue",
+                "russian": "добавлено в очередь"
+            }
+        },
+        "SKIP":{
+            "ERROR_1":{
+                "english": "You have to be in a voice channel to skip the music!",
+                "russian": "Ты должен быть в голосовом канале, чтобы выполнить -skip!"
+            },
+            "ERROR_2":{
+                "english": "There is no song that I could skip!",
+                "russian": "Нет песен, которые я бы мог пропустить!"
+            }
+        },
+        "FORCE_SKIP":{
+            "ERROR_1":{
+                "english": "You have to be in a voice channel to forceskip the music!",
+                "russian": "Ты должен быть в голосовом канале, чтобы выполнить -forceskip!"
+            },
+            "ERROR_2":{
+                "english": "There is no song that I could forceskip!",
+                "russian": "Нет песен, которые я бы мог пропустить!"
+            }
+        },
+        "HELP":{
+            "russian": "\n**-play** [название песни] - включить музыку/добавить в очередь \n**-play** [ссылка] - включить музыку/добавить в очередь \n**-skip** - пропустить музыку в  очереди \n **-forceskip** - пропустить всю музыку в очереди",
+            "english": "\n**-play** [name] - turn on the music/add to queue \n**-play** [link] - turn on the music/add to queue \n**-skip** - skip music in queue \n **-forceskip** - skip all music in queue"
+        }
+    }
+}
